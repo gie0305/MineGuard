@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-image: url('assets/Background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+canvas {
+  display: block;
+  position: fixed; 
+  top: 0;
+  left: 0;
+  outline: none;
+  border: none;
+}
